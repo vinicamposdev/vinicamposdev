@@ -25,26 +25,29 @@
 </p>
 <ul align="center">
 <col>
-   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
 </col>
 <col>
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </col>
 
 <col>
-    <img alt="PostGres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="PostGres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
 </col>
 <col>
-    <img alt="Latex" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+    <img alt="Latex" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat-square&logo=latex&logoColor=white"/>
 </col>
 <col>
-    <img alt="ExpressJS" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+    <img alt="ExpressJS" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/>
 </col>
 <col>
-    <img alt="ReactJS" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="ReactJS" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
 </col>
 <col>
-    <img alt="ReactNativeJS" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="ReactNativeJS" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
+</col>
+<col>
+    <img alt="Ethereum" src="https://img.shields.io/badge/ETH-Ethereum-lightgrey"/>
 </col>
 </ul>
 
