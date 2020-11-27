@@ -55,10 +55,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmo-campos&layout=compact)](https://github.com/vmo-campos/vmo-campos)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vmo_campos)](https://github.com/vmo-campos/vmo-campos)
-
-[<img src="https://www.codewars.com/users/vmo-campos/badges/micro" height="28px">](https://www.codewars.com/users/vmo-campos)
-
 <p align="center">
     <strong>📫 How to reach me: </strong>
 </p>
