@@ -1,19 +1,16 @@
 <h1 align="center">Hi there 👋 <br>My name is Vinícius Campos!</h1>
 - 🔭 I’m currently working with
    
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white ) ![MySQL](https://img.shields.io/badge/-MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white ) ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white ) ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=black) ![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white ) ![PostGres](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white ) ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=black) ![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 
 - 🌱 I’m currently learning 
 
- ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white) ![PostGres](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white) ![Latex](https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat-square&logo=latex&logoColor=white) ![ExpressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square) ![ReactJS](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB) ![ReactNativeJS](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+Software Architectur
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me:
 
 <row>
-    <a href="mailto:vinic.otus@gmail.com">
+    <a href="mailto:vinicamposdev@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vinic.otus@gmail.com"/>
     </a>
     <a href="https://twitter.com/vinicamposdev">
